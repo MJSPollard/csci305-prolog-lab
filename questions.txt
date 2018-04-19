@@ -1,0 +1,75 @@
+Michael Pollard
+CSCI 305 Prolog Lab 2 Questions
+
+1. X = 'King George VI'
+ 
+2. X = 'Queen Mary' 
+
+3. X = 'King George V'
+
+4. X = 'King George V' ;
+   X = 'Queen Mary' 
+
+5. X = 'Prince William' ;
+   X = 'Prince Henry'
+
+6. X = 'Princess Margaret'
+
+7. X = 'Prince Charles' ;
+   X = 'Prince Andrew' ;
+   X = 'Prince Edward'
+
+8. X = 'Princess Anne'
+
+9. false.
+
+10. X = 'Catherine Middleton'.
+
+11. X = 'Prince Charles' ;
+    X = 'Lady Diana Spencer' ;
+    X = 'Queen Elizabeth II' ;
+    X = 'Prince Philip' ;
+    X = 'King George VI' ;
+    X = 'Lady Elizabeth Bowes-Lyon' ;
+    X = 'King George V' ;
+    X = 'Queen Mary' ;
+    X = 'King Edward VII' ;
+    X = 'Princess Alexandra of Denmark' ;
+    X = 'Prince Albert' ;
+    X = 'Queen Victoria'
+
+12. false.
+
+13. false.
+
+14.X = 'Queen Victoria' ;
+   X = 'Princess Alexandra of Denmark' ;
+   X = 'Queen Mary' ;
+   X = 'Mrs Simpson' ;
+   X = 'Lady Elizabeth Bowes-Lyon' ;
+   X = 'Prince Albert' ;
+   X = 'King Edward VII' ;
+   X = 'King George V' ;
+   X = 'King Edward VIII' ;
+   X = 'King George VI' ;
+   X = 'Prince Philip' 
+
+
+15. X = 'King George V'
+
+16. Compared with ML, I really liked how much more readable this code was and how I could understand what most functions were doing when looking online. It honestly didn't really feel like programming and more like a puzzle that I had to figure out in one line by doing things like switching the order of the arguments and testing. Furthermore, I liked how easy it was to access and manipulate the data from the dataset.
+
+17. There wasn't anything that I really disliked about prolog. It was a little difficult to get started and understand how I needed to load the files and run the program. This also was a little time consuming to do in order to test after every change I made.
+
+18. I did enjoy this lab as it helped me further understand what was meant by the logic programming paradigm. The use of family trees to illustrate what this language could do was also interesting and provided insight into how this language might be used in potential real world applications. 
+
+19. This lab approximately took me 5-6 hours in total.
+
+20. I doubt I will want to use prolog again for a practical application as it requires such a different mindset than most other common programming languages and would require a great deal of experience to efficiently use. However, I have read that it can sometimes be preferred for AI applications as opposed to languages like Lisp as it reduces verboseness and handles datasets well. So if I were to use it again it would probably be something to do with AI.
+
+EC1. X = 'Viscount Linley' ;
+     X = 'Lady Sarah Chatto'
+
+EC2. X = 'Viscount Linley' ;
+     X = 'Lady Sarah Chatto'
+
